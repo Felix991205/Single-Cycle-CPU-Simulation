@@ -1,6 +1,6 @@
 # Single Cycle CPU simulation
 
-### 提供者
+### 作者
 
 武汉大学
 2017级计算机科学与技术8班
